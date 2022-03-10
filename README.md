@@ -7,6 +7,8 @@ MOVE<br/>
 LEFT<br/>
 RIGHT<br/>
 REPORT<br/>
+EXAMPLE<br/>
+EXIT<br/>
 </p>
 
 #The solution is using .NET 6 framework <br/>
